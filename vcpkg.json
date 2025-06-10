@@ -1,0 +1,9 @@
+{
+  "name": "particle-simulator",
+  "version-string": "0.1",
+  "dependencies": [
+    "glad",
+    "glfw3",
+    "glm"
+  ]
+}
